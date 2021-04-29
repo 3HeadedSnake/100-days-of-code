@@ -12,7 +12,7 @@
 
 **Thoughts**: I really enjoyed working on Modular Programming because I did not quite understand some concepts. 
 
-### Day 1: Wednesday, April 27th, 2021.
+### Day 3: Wednesday, April 27th, 2021.
 **Today's Progress**: Practised Data Structures and Algorithms codes in Python.
 
 **Link(s) to work**
