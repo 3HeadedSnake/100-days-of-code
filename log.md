@@ -16,7 +16,10 @@
 **Today's Progress**: Practised Data Structures and Algorithms codes in Python.
 
 **Link(s) to work**
-1. Github[https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day3]
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day3)
 
 ### Day 4: Thursday, April 28th, 2021.
-**Today's Progress**:
+**Today's Progress**: Practised Data analaysis and manipulation using Pandas.
+
+**Link(s) to work** 
+[Github]()
