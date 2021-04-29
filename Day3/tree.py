@@ -1,4 +1,3 @@
-
 # create the class Node and the attrbutes 
 class Node:
     def __init__(self, letter):

@@ -15,3 +15,4 @@ def bin_search(ourlist, key):
 
 print(bin_search([1, 3, 9, 15], 17))
 print(bin_search([1, 3, 9, 15], 3))
+
