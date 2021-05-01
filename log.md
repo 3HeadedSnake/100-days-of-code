@@ -29,3 +29,10 @@
 
 **Link(s) to work** 
 [Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day5)
+
+
+### Day 6 Saturday, May 1st, 2021.
+**Today's Progress**: Practised what I learnt the whole week using the Fremont_Bridge_Bicycle_Counter.csv dataset.
+
+**Link(s) to work** 
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day6)
