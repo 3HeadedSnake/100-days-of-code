@@ -36,3 +36,10 @@
 
 **Link(s) to work** 
 [Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day6)
+
+
+### Day 7 Monday, May 3rd, 2021.
+**Today's Progress**: Started on Descriptive Statistics.
+
+**Link(s) to work** 
+[Github](https://github.com/3HeadedSnake/100-days-of-code/blob/master/Day7)
