@@ -43,3 +43,9 @@
 
 **Link(s) to work** 
 [Github](https://github.com/3HeadedSnake/100-days-of-code/blob/master/Day7)
+
+### Day 8 Tuesday, May 4th, 2021.
+**Today's Progress**: Continued on Descriptive Statistics and I did a few practice of what I learnt using the weather_2012.csv dataset.
+
+**Link(s) to work** 
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day8)
