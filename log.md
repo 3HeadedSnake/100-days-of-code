@@ -54,7 +54,7 @@
 **Today's Progress**: Today I did the theory part where I read on Inferential Statistics. 
 
 ### Day 10 Thursday, May 6th, 2021.
-**Today's Progress**: I continued with Inferntial statistics then started on the various testsa and confidence intervals. 
+**Today's Progress**: I continued with Inferntial statistics then started on the various tests and confidence intervals. 
 
 ### Day 11 Friday, May 7th, 2021.
 **Today's Progress**: I started on Probability and Statistics and I was able to get meaningful insights. 
@@ -68,3 +68,9 @@ sqlite database.
 
 **Link(s) to work** 
 [Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day13)
+
+### Day 14 Tuesday, May 11th, 2021.
+**Today's Progress**: I did more exercises on hypothesis testing using the weather_2010.csv dataset.
+
+**Link(s) to work** 
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day14)
