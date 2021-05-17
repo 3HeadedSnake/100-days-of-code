@@ -74,3 +74,18 @@ sqlite database.
 
 **Link(s) to work** 
 [Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day14)
+
+### Day 15 Wednesday, May 12th, 2021.
+**Today's Progress**: I started reading on Linear Regression
+
+### Day 16 Thursday, May 13th, 2021.
+**Today's Progress**: Continued with linear Regression on multivariate analysis , cost function and gradient descent
+
+### Day 17 Saturday, May 15th, 2021.
+**Today's Progress**: Finished on the theory part of linear regression.
+
+### Day 18 Monday, May 17th, 2021.
+**Today's Progress**: Predicted the price of a house using linear regression is sklearn.
+
+**Link(s) to work** 
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day18)
