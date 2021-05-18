@@ -89,3 +89,9 @@ sqlite database.
 
 **Link(s) to work** 
 [Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day18)
+
+### Day 19 Tuesday, May 18th, 2021.
+**Today's Progress**: Continued with predicting the prices o houses using Multivariate Regression.
+
+**Link(s) to work** 
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day19)
