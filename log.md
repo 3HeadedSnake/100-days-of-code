@@ -95,3 +95,9 @@ sqlite database.
 
 **Link(s) to work** 
 [Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day19)
+
+### Day 20, Wednesday, May 19th, 2021.
+**Today's Progress**: I did a few wxercises on Linear Regression to test my understanding.
+
+**Link(s) to work** 
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day20)
