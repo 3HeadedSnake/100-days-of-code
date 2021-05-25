@@ -101,3 +101,18 @@ sqlite database.
 
 **Link(s) to work** 
 [Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day20)
+
+### Day 21 Friday, May 21st, 2021.
+**Today's Progress**: I started on Exploratory Data Analysis to find numerical and categorical data from the dataset.
+
+### Day 22 Saturday, May 22nd, 2021.
+**Today's Progress**: I went back and took a look on visualisation using Seaborn.
+
+### Day 23 Monday, May 24th, 2021.
+**Today's Progress**: I coninued on Exploratory Data Analysis using boxplots and kernel density function.
+
+### Day 24 Tuesday, May 25th, 2021.
+**Today's Progress**: I performed an Exploratory Data Anlysis on the train.csv dataset and I was able to detect and remove outliers and relations between variaous variables. 
+
+**Link(s) to work** 
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day24)
