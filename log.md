@@ -76,7 +76,7 @@ sqlite database.
 [Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day14)
 
 ### Day 15 Wednesday, May 12th, 2021.
-**Today's Progress**: I started reading on Linear Regression
+**Today's Progress**: I started reading on Linear Regression and read on predictors and targets for various datasets.
 
 ### Day 16 Thursday, May 13th, 2021.
 **Today's Progress**: Continued with linear Regression on multivariate analysis , cost function and gradient descent
@@ -116,3 +116,111 @@ sqlite database.
 
 **Link(s) to work** 
 [Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day24)
+
+### Day 25 Wednesday, May 26th, 2021.
+**Today's Progress**: Today I started reading on overfitting and the the concept of regularization.
+
+### Day 26 Thursday, May 27th, 2021.
+**Today's Progress**: I started on dealing with underfitting using polynomial regression and fine-tuning the model for better results.
+
+### Day 27 Saturday, May 29th, 2021.
+**Today's Progress**: I’m still working on fine-tuning regression models using Lasso and Ridge regularization.
+
+### Day 28 Sunday, May 30th, 2021.
+**Today's Progress**: I fit a Linear regression model on the autotrain dataset and performed a Hold-Up. 
+
+**Link(s) to work** 
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day28)
+
+### Day 29 Saturday, May 31st, 2021.
+**Today's Progress**: This week I focused on SQL Programming and today I started with a few queries.
+
+### Day 30 Wednesday, June 2nd, 2021.
+**Today's Progress**: I started on aggregate functions to summarize data and get useful insights.
+
+### Day 31 Thursday, June 3rd, 2021.
+**Today's Progress**: I composed nested queries and executed select statements to access data from multiple tables.
+
+### Day 32 Friday, June 4th, 2021.
+**Today's Progress**: I continued with sorting multiple columns then continued with grouping my results.
+
+
+### Day 33 Saturday, June 5th, 2021.
+**Today's Progress**: I started by practicing on Linear Regression to make predictions.
+
+**Link(s) to work** 
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day33)
+
+
+### Day 34 Monday, June 7th, 2021.
+**Today's Progress**: I was able to connect Python and PostgreSQL database.
+
+### Day 35 Tuesday, June 8th, 2021.
+**Today's Progress**: I continued with Data Cleaning and Preprocessing and I was able to handle  skewness by replacing the data with the log, square root, or inverse transformed data.
+
+### Day 36 Wednesday, June 9th, 2021.
+**Today's Progress**: I continued with Data Preprocessing by  counting the missing values and removing outliers.
+
+
+### Day 37 Thursday, June 10th, 2021.
+**Today's Progress**: I was able to separate Numerical and Categorical features then I applied Standardization on the features.
+
+### Day 38 Friday, June 11th, 2021.
+**Today's Progress**: I was able to encode the categorical variables to numeric features as well as start on One hot encoding and hashing techniques.
+
+### Day 39 Saturday, June 12th, 2021.
+**Today's Progress**: I did a few questions on Linear Regression models to test my understanding.
+
+### Day 40 Tuesday, June 15th, 2021.
+**Today's Progress**: I was able to fine-tune and evaluate my Linear Regression model's performance and accuracy.
+
+
+### Day 41 Friday, June 18th, 2021.
+**Today's Progress**: I started on feature selection by looking at Pearson's Correlation as one of the filtering methods.
+
+
+### Day 42 Saturday, June 19th, 2021.
+**Today's Progress**: I tried using Linear Regression to solve a classification problem by using a threshold value for the output.
+
+### Day 43 Monday, June 21th, 2021.
+**Today's Progress**: I tried solving a classification problem with Logistic Regression.
+
+**Link(s) to work** 
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day43)
+
+### Day 44 Tuesday, June 22nd, 2021.
+**Today's Progress**: I practised Logistic Regression using the heart disease dataset.
+
+**Link(s) to work** 
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day44)
+
+### Day 45 Wednesday, June 23rd, 2021.
+**Today's Progress**: I tried solving a Binary Classification problem using Logistic Regression to predict on bank loans. 
+
+**Link(s) to work** 
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day45)
+
+### Day 46 Wednesday, June 24th, 2021.
+**Today's Progress**: I continued solving the Binary Classification problem by Preprocessing the data. 
+
+**Link(s) to work** 
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day46)
+
+### Day 47 Friday, June 26th, 2021.
+**Today's Progress**: I was able to solve the Classification problem with Logistic Regression. The model had an AUC value of 0.7
+
+**Link(s) to work** 
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day47)
+
+
+### Day 48 Saturday , June 27th, 2021.
+**Today's Progress**: I started on web scraping using Beautiful Soup. I tried scrapping data from the [Link] (http://books.toscrape.com website)
+
+
+
+
+
+
+
+
+
