@@ -217,10 +217,16 @@ sqlite database.
 **Today's Progress**: I started on web scraping using Beautiful Soup. I tried scrapping data from the [Link] (http://books.toscrape.com ) website.
 
 ### Day 49 Monday, June 28th, 2021.
-**Today's Progress**: I tried using Linear regression to predict on bicycle traffic using thr FremontBridgeBicycle dataset.
+**Today's Progress**: I tried using Linear regression to predict on bicycle traffic using the FremontBridgeBicycle dataset.
 
 **Link(s) to work** 
-[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day48)
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day49)
+
+### Day 50 Tuesday, June 29th, 2021.
+**Today's Progress**: I started on Decision trees and did a few challenges. I'll focus on decision trees this week.
+
+**Link(s) to work** 
+[Github](https://github.com/3HeadedSnake/100-days-of-code/tree/master/Day50)
 
 
 
